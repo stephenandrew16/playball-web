@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/import", "destination": "/" },
+    { "source": "/import/(.*)", "destination": "/" }
+  ]
+}
