@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9G9FR92XH4.com.clutchapps.playball",
+        "paths": ["/import", "/import/*"]
+      }
+    ]
+  }
+}
